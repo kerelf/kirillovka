@@ -1,0 +1,38 @@
+@media (max-width: 479px) {
+.review-comment p{
+text-align: left ;
+}
+.review-comment{
+margin-left: 28px ;
+width: 100% ;
+}
+.route{
+padding-bottom: 30px;
+}
+#prev_button{
+ padding-left: 0px;
+}
+.menu-item{
+text-align: center;
+border-bottom: 1px solid #fff;
+}
+}
+@media (max-width: 767px) {
+.review-comment p{
+text-align: left ;
+}
+#portfolio{
+  line-height: 45px;
+}
+.review-comment{
+margin-left: 0px ;
+width: 100% ;
+}
+#prev_button{
+ padding-left: 0px;
+}
+.menu-item{
+text-align: center;
+border-bottom: 1px solid #fff;
+}
+}
